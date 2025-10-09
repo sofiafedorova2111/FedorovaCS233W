@@ -1,0 +1,22 @@
+{
+  "name": "fedorovacs233w-hw1",
+  "version": "1.0.0",
+  "description": "Shoppinglist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiafedorova2111/CS233W-HW1.git"
+  },
+  "author": "Sofia Fedorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiafedorova2111/CS233W-HW1/issues"
+  },
+  "homepage": "https://github.com/sofiafedorova2111/CS233W-HW1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
