@@ -1,4 +1,4 @@
- # Project: CS233W HW1
+ # Project CS233W
 
 ## Name: Sofia Fedorova
 
