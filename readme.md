@@ -2,7 +2,7 @@
 
 ## Name: Sofia Fedorova
 
-### Date: 10/07/2025
+### Date: 10/15/2025
  
   *Description: Shared shopping list application.* 
 
